@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679764298840",
+    "project_id": "messenger-6b15b",
+    "storage_bucket": "messenger-6b15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679764298840:android:2731702d093a6e2e460e2d",
+        "android_client_info": {
+          "package_name": "com.judai.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679764298840-nvt0hba7vrj9s3tu8not9rr58284lcqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6vzUA2j_bXVPriYKV7gpy0pvpZ4QnlaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679764298840-nvt0hba7vrj9s3tu8not9rr58284lcqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
